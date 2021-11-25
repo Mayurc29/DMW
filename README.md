@@ -1,7 +1,7 @@
 # DMW
 
-Mayur Chaudhari '\n'
-A-30 (DMW-Assignment No.-1)
+Mayur Chaudhari 
+A-30 ( DMW-Assignment No.-1 )
 Data Mining And Warehousing Lab
 
 Question 1 :
